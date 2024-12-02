@@ -56,16 +56,4 @@ La API estará disponible en `http://127.0.0.1:8000`.
 └── .env
 ```
 
-## Contribuir
-
-Abre un _issue_ o envía un _pull request_.
-
-## Licencia
-
-Licencia [MIT](LICENSE).
-
-```
-
-Este formato es compacto y directo.
-```
 ````
