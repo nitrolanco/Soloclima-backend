@@ -1,6 +1,3 @@
-Aquí tienes un README en un solo bloque de Markdown, manteniéndolo breve:
-
-````markdown
 # API Simple con FastAPI
 
 API desarrollada con FastAPI que se conecta a una base de datos MongoDB. Asegúrate de tener la base de datos alojada y configura el archivo `.env`.
@@ -17,6 +14,7 @@ API desarrollada con FastAPI que se conecta a una base de datos MongoDB. Asegúr
    git clone <url-del-repositorio>
    cd <directorio-del-proyecto>
    ```
+
 ````
 
 2. Crea y activa un entorno virtual:
@@ -70,3 +68,4 @@ Licencia [MIT](LICENSE).
 
 Este formato es compacto y directo.
 ```
+````
